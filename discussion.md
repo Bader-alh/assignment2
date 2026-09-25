@@ -22,6 +22,7 @@ Moreover, I looked at the most common words used by each author. I first removed
 ### E
 
 the prior probability estimates are:
+
 $$ P(\text{Kennedy}) = 0.3529 $$
 
 $$ P(\text{Johnson}) = 0.6471 $$
@@ -87,6 +88,7 @@ $$
 $$
 
 confusion matrix for scikit-learn implementation was:
+
 $$ 
 \begin{bmatrix}
 5 & 0 \\
